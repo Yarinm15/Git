@@ -1,0 +1,12 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test_firstUniqueCharacter": "node firstUniqueCharacter.js"
+  },
+  "keywords": [],
+  "author": "Yarin Mordechay",
+  "license": "ISC"
+}
