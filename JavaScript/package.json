@@ -4,9 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test_firstUniqueCharacter": "node firstUniqueCharacter.js"
+    "test_firstUniqueCharacter": "node firstUniqueCharacter.js",
+    "loginTask": "node loginTask.js"
   },
   "keywords": [],
   "author": "Yarin Mordechay",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.32.0"
+  }
 }
